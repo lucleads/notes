@@ -1,5 +1,5 @@
 # Concurrencia
-La [concurrencia](obsidian://open?vault=Lecturas&file=CLEAN%20CODE%2FConceptos) es una estrategia de desacoplamiento. Ayuda a separar **que se hace** de **cuando se hace**.
+La [concurrencia](./../Conceptos) es una estrategia de desacoplamiento. Ayuda a separar **que se hace** de **cuando se hace**.
 
 ### Mitos de la concurrencia
 
