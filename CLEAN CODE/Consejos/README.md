@@ -1,4 +1,4 @@
-**Ron Jeffries:** *One method must says clearly what id does, and its submethos must say how it is done.*
+> **Ron Jeffries:** *One method must says clearly what id does, and its submethos must say how it is done.*
 
 
 ### Usa nombres que revelen la intención
