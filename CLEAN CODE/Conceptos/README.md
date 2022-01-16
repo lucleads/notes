@@ -2,4 +2,5 @@
 Estos tests comprueban que los *third-party packages* que estamos utilizando, funcionan como esperamos.
 
 **Concurrencia:** La concurrencia es la habilidad de un programa, algoritmo o problema de ser ejecutado en desorden o en orden parcial, sin afectar el resultado final.
+
 ![concurrencia](./../imagenes/concurrencia.png)
