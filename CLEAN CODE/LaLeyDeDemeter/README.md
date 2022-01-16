@@ -27,4 +27,4 @@ String userStreet = users
 	.collect(Collectors::toList);
 ```
 
-![[law-of-demeter.png]]
+![[./../imagenes/law-of-demeter.png]]
