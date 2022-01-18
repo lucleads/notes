@@ -4,4 +4,4 @@ En este repositorio podemos encontrar apuntes relacionados con informática y pr
 Un buen código es un código mantenible, escalable y eficiente. 
 Para ello, podremos aplicar las distintas técnicas, consejos y patrones de diseño explicados aquí.
 
-- [CLEAN CODE](./CLEAN%20CODE)
+- [CLEAN CODE: *A Handbook of Agile Software Craftmanship*](./CLEAN%20CODE)
