@@ -7,9 +7,8 @@ Documentación extraida del libro [Clean Code](https://www.amazon.com/Clean-Code
 En este libro se recogen una serie consejos y buenas prácticas extraidas a partir de las experiencias de algunos desarrolladores de gran prestigio.
 El libro supuso un cambio en la mentalidad de como entender el desarrollo de software para muchas personas y a día de hoy muchos lo siguen considerando la biblia de la informática.
 
-***
 ### Tabla de contenidos
-***
+
 - [Consejos](./Consejos)
 - [Formato](./Formato)
 - [Métodos](./Metodos)
